@@ -6,7 +6,7 @@ from pypdf import PdfReader
 
 # --- 1. CONFIGURARE ---
 PDF_FILES = {
-    "Capitolul 1": "Grile MANAGMENT.pdf",
+    "Capitolul 1": "Grile-MANAGMENT.pdf",
     # ... adaugă restul aici
 }
 
